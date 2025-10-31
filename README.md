@@ -1,11 +1,11 @@
-### Hi there 👋, my name is Mjx
+### Hi Everyone 👋
 ![](https://t4.ftcdn.net/jpg/08/86/49/53/360_F_886495385_XudXZcfZb7FqTwSWpDjwOEWfsol6Sw6e.jpg)
 
-I love to code and a passionate to Tech
+I love to code and  passionate to Tech
 
 Skills: Python / Linux / Docker / Git / Powershell
 
-- 🔭 I’m currently working on On Overview 
+- 🔭 I’m currently working on [Extreme-beginner-python-projects](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects)
 - 🌱 I’m currently learning C, Self Hosting, Wireshark, Django 
 - 🤔 I’m looking for help with ML/AI/LLM 
 - 📫 How to reach me: mjxrentex@gmail.com 
